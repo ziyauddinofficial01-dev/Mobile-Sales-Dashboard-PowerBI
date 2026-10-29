@@ -28,8 +28,6 @@ Created four measures:
 - Total Transactions
 - Average Price per Unit
 
-## Project Objective
-To organize mobile sales data into an interactive dashboard that helps users explore sales trends, compare performance across categories, and understand customer ratings and payment preferences.
 
 ## Dashboard Preview
 ![Mobile Sales Dashboard](Dashboard_Screenshot.png)
